@@ -8,7 +8,7 @@ Please do not fork our repository to create your project. Clone and then work in
 
 Your task is to implement an Advert details screen for the Gumtree app. You can check an example at the link/image below. Additionally, feel free to have a look at some other Advert details screen examples by downloading the Gumtree application in google play (https://play.google.com/store/apps/details?id=com.gumtree.android)
 
-url: https://lh3.googleusercontent.com/PWA1l37j3Lj34M0qhyvt0XuCJtcOw56itrikl722cYJkSaAx-m-8UrzzGbr5rDESCbk=h900-rw
+![Advert Details Screen Example] (https://lh3.googleusercontent.com/PWA1l37j3Lj34M0qhyvt0XuCJtcOw56itrikl722cYJkSaAx-m-8UrzzGbr5rDESCbk=h900-rw)
 
 ## The app
 
